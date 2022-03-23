@@ -16,6 +16,7 @@ Version: \tab 1.0\cr
 Date: \tab 2010-01-10\cr
 License: \tab GPL version 2 or later\cr
 Maintainer: \tab Scientific Software Development - Dr. Lin Himmelmann, www.linhi.com\cr
+URL: \tab  www.linhi.com\cr
 }
 }
 \keyword{package}

@@ -1,7 +1,7 @@
 \encoding{latin1}
 \name{initHMM}
 \alias{initHMM}
-\title{Initialisation of HMM's}
+\title{Initialisation of HMMs}
 \description{
 This function initialises a general discrete time and discrete space Hidden Markov Model (HMM).
 A HMM consists of an alphabet of states and emission symbols. A HMM assumes that

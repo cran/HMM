@@ -1,0 +1,13 @@
+afb6a5a3ab7fd4e9e5e1b8bf37f9f7df *DESCRIPTION
+a5f8001a44920dba5fb1dd9a09276198 *NAMESPACE
+85c2f4da1b1b8aa31bc345de499615ad *R/HMM.r
+948a16e4f888ddc33e9e3f5fecde0adf *man/HMM.Rd
+a547c01b64385193c7ae2305888fe5f5 *man/backward.Rd
+caa0e37c447d5b34e87db79fa206f4c3 *man/baumWelch.Rd
+eca35fd0a9e10d855c63720b1da84034 *man/dishonestCasino.Rd
+0cbeaa081f37564a47d67d3ce9848eb8 *man/forward.Rd
+855b65f9dd1ecd68bca25a8bd4ce8d08 *man/initHMM.Rd
+7a23da7a3a1d198c1432e9cf50025b8e *man/posterior.Rd
+8ecfc2eae0346fc42aad05181a5053af *man/simHMM.Rd
+a96d5c6230c48582585a2e559190f750 *man/viterbi.Rd
+0822870450a4e9cff9d3962d75d7ddd9 *man/viterbiTraining.Rd

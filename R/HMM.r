@@ -388,6 +388,7 @@ viterbiTraining = function(hmm, observation, maxIterations=100, delta=1E-9, pseu
 		diff = c(diff, d)
 		tempHmm$transProbs    = T
 		tempHmm$emissionProbs = E
+		# todo: what if do is undefined? Use pseudocounts...
 		if(d < delta)
 		{
 			break
